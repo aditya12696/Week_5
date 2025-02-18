@@ -1,0 +1,37 @@
+[
+    {
+        "Grade": "A",
+        "Marks": "85",
+        "Age": "20",
+        "﻿Student_ID": "101",
+        "Name": "Alice"
+    },
+    {
+        "Grade": "B",
+        "Marks": "78",
+        "Age": "19",
+        "﻿Student_ID": "102",
+        "Name": "Bob"
+    },
+    {
+        "Grade": "A",
+        "Marks": "90",
+        "Age": "21",
+        "﻿Student_ID": "103",
+        "Name": "Charlie"
+    },
+    {
+        "Grade": "C",
+        "Marks": "65",
+        "Age": "22",
+        "﻿Student_ID": "104",
+        "Name": "David"
+    },
+    {
+        "Grade": "A",
+        "Marks": "88",
+        "Age": "20",
+        "﻿Student_ID": "105",
+        "Name": "Eve"
+    }
+]
